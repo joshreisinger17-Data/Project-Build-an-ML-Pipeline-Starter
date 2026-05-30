@@ -2,7 +2,7 @@
 
 GitHub Repository: https://github.com/joshreisinger17-Data/Project-Build-an-ML-Pipeline-Starter
 
-W&B Project: https://wandb.ai/joshreisinger17-western-governors-university/nyc_airbnb
+W&B Project: https://wandb.ai/joshreisinger17-western-governors-university/nyc_airbnb/reports/NYC-Airbnb-ML-Pipeline--VmlldzoxNzA2NjQ0OA
 
 
 
